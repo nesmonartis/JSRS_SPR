@@ -4662,7 +4662,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_an94_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
