@@ -4610,7 +4610,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_an94_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4635,7 +4635,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_an94_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4692,7 +4692,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_an94_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4717,7 +4717,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_an94_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4744,7 +4744,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_an94_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4774,7 +4774,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_aek971_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4801,7 +4801,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_aek971_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4831,7 +4831,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_aek971_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4858,7 +4858,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_aek971_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4888,7 +4888,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_aek971_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -4915,7 +4915,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_aek971_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_ak74_shell_soundset",
 					"jsrs_762mm_echo_soundset",
 					"jsrs_7x62mm_reflector_3"
@@ -5619,7 +5619,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_rpk74_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_aks_shell_soundset",
 					"jsrs_7x62mm_reflector_1",
 					"jsrs_762mm_echo_soundset"
@@ -5634,7 +5634,7 @@ class cfgweapons
 				soundsetshot[]=
 				{
 					"jsrs_rifle_shake_soundset",
-					"jsrs_rpk74_shot_soundset",
+					"jsrs_ak74_shot_soundset",
 					"jsrs_aks_shell_soundset",
 					"jsrs_7x62mm_reflector_1",
 					"jsrs_762mm_echo_soundset"
